@@ -1,7 +1,7 @@
-# config
+# id生成器
 
-id生成器
 
+## 集成
 ```shell
 composer require yiche/generate 1.0
 ```
@@ -11,9 +11,9 @@ composer require yiche/generate 1.0
 
 ```shell
 生成数字id
-use Yiche\Generate;
+use Yiche\Generate\Generate;
 
-Generate::id(10);
+Generate::id(61);
 
 ```
 
