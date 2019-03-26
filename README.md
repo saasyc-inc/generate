@@ -1,6 +1,6 @@
 # config
 
-配置管理
+id生成器
 
 ```shell
 composer require yiche/generate 1.0
